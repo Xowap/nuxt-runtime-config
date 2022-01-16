@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+/build
+/.nuxt
+/.output
+/package
+.idea
+.env
